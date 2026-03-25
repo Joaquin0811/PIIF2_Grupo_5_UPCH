@@ -1,11 +1,11 @@
-# 👨‍💻 Equipo 4 - Procesos de Innovación en Ingeniería  
+# 👨‍💻 Equipo 5 - Procesos de Innovación en Ingeniería  
 Carrera de Ingeniería Informática
 Universidad Peruana Cayetano Heredia  
 
 ---
 
 ## 🌍 Descripción del Equipo
-Somos el Equipo 4 del curso **PIIF2 2026-1**, conformado por estudiantes de la carrera de Ingeniería Informática.  
+Somos el Equipo 5 del curso **PIIF2 2026-1**, conformado por estudiantes de la carrera de Ingeniería Informática.  
 
 Nuestro objetivo es aplicar la **metodología de diseño** para generar soluciones innovadoras con impacto social, tecnológico y ambiental.  
 
@@ -21,7 +21,7 @@ Nos interesa trabajar en los siguientes **Objetivos de Desarrollo Sostenible (OD
 ## 📸 Fotografía del Equipo
 
 ![Fotografía del equipo](docs/imagen_equipo.jpg)  
-**Figura 1.** Fotografía del equipo 4  
+**Figura 1.** Fotografía del equipo 5  
 
 ---
 
@@ -41,25 +41,3 @@ Este README resume quiénes somos, qué nos motiva y en qué **ODS** queremos en
 
 ---
 
-## 🚀 Flujo de trabajo del equipo
-1. Crear una rama por integrante  
-2. Subir avances individuales  
-3. Realizar commits descriptivos  
-4. Crear Pull Request  
-5. Revisar y fusionar cambios  
-
----
-
-## 📂 Estructura del repositorio
-
-```
-📦 Equipo_4
- ┣ 📂 docs
- ┃ ┗ imagen_equipo.jpg
- ┣ 📂 integrantes
- ┃ ┣ foto1.jpg
- ┃ ┣ foto2.jpg
- ┃ ┣ foto3.jpg
- ┃ ┣ foto4.jpg
- ┗ README.md
-```
